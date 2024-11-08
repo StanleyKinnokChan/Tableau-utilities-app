@@ -1,0 +1,5 @@
+deep_translator==1.11.4
+matplotlib==3.7.4
+pandas==2.0.3
+pyvis==0.3.2
+tkinterdnd2==0.4.2
