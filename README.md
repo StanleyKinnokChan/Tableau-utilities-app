@@ -60,8 +60,8 @@ The script was created with python 3.8 and the following packages' versions:
 ### Usage
 1. To use the the app, first clone the repository and move to the app folder in CMD
 ```
-git clone https://github.com/StanleyKinnokChan/Python.git
-cd "<your_path>/Python/Tableau related/Tableau utilities app"
+git clone https://github.com/StanleyKinnokChan/Tableau-utilities-app.git
+cd "./Tableau-utilities-app"
 ```
   
 2. Install the required packages in requirements.txt
