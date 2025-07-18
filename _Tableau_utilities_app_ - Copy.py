@@ -2,15 +2,9 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 from tkinterdnd2 import TkinterDnD, DND_FILES
 import sys
-from scripts.read_tableau_to_xml import read_tableau_to_xml
-from scripts.Shapes_Files_Extract import Shapes_Files_Extract
-from scripts.image_extract import image_extract
-from scripts.unzip_twbx import unzip_twbx
-from scripts.Tableau_Calculation_Dependencies import Tableau_Calculation_Dependencies
-from scripts.workbook_colour_extractor import *
-from scripts.tableau_workbook_translator import *
 import os
 import webbrowser
+from run_scripts import *
 
 ######### Initialize the main window
 root = TkinterDnD.Tk()  # TkinterDnD enabled root
